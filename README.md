@@ -1,6 +1,11 @@
-### Hi there 👋
-- 🔭 I’m currently working on various Python private projects
-- 🌱 I’m currently learning Rust
+### Hi there, I'm Laurent 👋
+
+Software craftsman building self-hosted personal services, data processing pipelines, and lightweight web tools.
+
+- 🔭 **Current Focus**: Architecting containerized personal micro-services with Python 3.13, FastAPI, and rootless Podman Quadlet.
+- 🛠️ **Core Stack**: Python (FastAPI, FastHTML, Pydantic, uv) | Vanilla ES Modules & HTML5 Canvas | SQLite | Podman Quadlet & systemd.
+- 🎨 **Design Philosophy**: Material Design 3 tokens, zero-build lightweight frontends, and strict test coverage.
+- 🌱 **Exploring**: Modern async architectures, local AI document triage, and Rust.
 <!--
 **Laurent-Zerah/laurent-zerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
